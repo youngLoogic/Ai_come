@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'whitenoise.runserver_nostatic',
     'django.contrib.staticfiles',
     'core.apps.CoreConfig',
+    'delivery.apps.DeliveryConfig',
     'bootstrap4',
 ]
 
